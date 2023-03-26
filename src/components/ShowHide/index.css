@@ -1,0 +1,27 @@
+.main-container {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.adMyBrand-img {
+  width: max-content;
+  height: 200px;
+  background-size: cover;
+}
+.card {
+  height: 500px;
+  width: 600px;
+  background-color: aliceblue;
+  padding: 60px;
+  font-size: 20px;
+}
+
+.font-size {
+  font-size: 20px;
+}
+.button-background {
+  background-color: #ffffff;
+  border-width: 1px;
+}
